@@ -26,22 +26,20 @@
 @import url('https://warrayquipsome.github.io/Chillax/chillax.css');
 
 /*removable addons*/
-@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft.css");
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
 @import url("https://warrayquipsome.github.io/Chillax/Addons/IconPackEdited.css");
-@import url("https://warrayquipsome.github.io/Chillax/Addons/AvatarOnlyMemberList.css");
 @import url("https://warrayquipsome.github.io/Chillax/Addons/FolderRedesign.css");
 
 /*additional addons*/ /*(remove the both * to use)*/
-/*@import url("https://warrayquipsome.github.io/Chillax/Addons/SimpleLessLag.css");*/
+/@import url("https://warrayquipsome.github.io/Chillax/Addons/SimpleLessLag.css");/
 
 
 
 /*Chillax Roots*/
 :root{
 /*background image*/ /*(replace the link to use)*/
-  --background-image:var('https://cdn.discordapp.com/attachments/879158025087234098/1015856640530071572/97EAEB95-54C2-4AF3-B70B-5E94A851409.jpeg?size=4096');
+  --background-image:var('https://cdn.discordapp.com/attachments/807334703123136513/1081321831077773312/Screenshot_ferrari_499_p_tmm_slovakiaring_PC_Intrinsic_3-2-123-22-0-21.png');
 /*bg dev suggestions*/
   --wallpaper: url('https://wallpaperaccess.com/full/2799204.jpg');
 /*modern background selection*/
